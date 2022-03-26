@@ -50,6 +50,7 @@ const Shop = () => {
 
 
             <div className="cart-container">
+                
                 <Cart
                     cart={cart}
                     randomChoose={randomChoose}

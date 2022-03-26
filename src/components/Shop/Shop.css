@@ -1,3 +1,8 @@
+.cart-container {
+  background-color: bisque;
+  /* padding: 5px; */
+  border: 2px solid red;
+}
 .shop-container {
   display: grid;
   grid-template-columns: 4fr 1fr;
@@ -6,12 +11,9 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 45px;
+  border: 2px solid red;
 }
-.cart-container {
-  background-color: bisque;
-  padding: 5px;
-  position: sticky;
-}
+
 .selected-cart {
   display: flex;
   border-radius: 2rem;
@@ -43,4 +45,26 @@
   color: wheat;
 }
 
+@media screen and (max-width : 576px) {
+  .products-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 
+    /* grid-template-columns: repeat(1, 1fr); */
+    order: 2;
+    /* justify-self: center; */
+  }
+  .shop-container {
+    display: flex;
+    flex-direction: column;
+    /* width: 100%; */
+    /* grid-template-columns: repeat(1, 1fr); */
+  }
+  .cart-container{
+    position: sticky;
+    top: 0;
+  }
+  
+}

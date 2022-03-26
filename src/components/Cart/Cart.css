@@ -1,5 +1,14 @@
 .cart{
     position: sticky;
+    margin-top: 0;
     top: 0;
+    /* border: 2px solid red; */
     
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    text-align: center;
 }
