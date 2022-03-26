@@ -13,7 +13,9 @@ const Product = ({ product, addToCartHandler }) => {
             <img src={picture} alt="" />
             <h3 className='title'>{name}</h3>
             <h3>Price:{price}</h3>
-            <button onClick={() => addToCartHandler(product)} className='cart-btn'>Add to cart <FontAwesomeIcon icon={faShoppingCart} /></button>
+            <button onClick={() => addToCartHandler(product)}
+                key={id}
+                className='cart-btn'>Add to cart <FontAwesomeIcon icon={faShoppingCart} /></button>
         </div>
     );
 };

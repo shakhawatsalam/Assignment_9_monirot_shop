@@ -8,12 +8,25 @@ import './Shop.css'
 const Shop = () => {
     const [products, setProducts] = useState([]);
     const [cart, setCart] = useState([]);
-    console.log(cart);
 
     const addToCartHandler = (product) => {
-        const newCart = [...cart,product];
-        setCart(newCart);
+        const newCart = [...cart, product];
+        if (newCart.length <= 4) {
+            setCart(newCart);
+        } else {
+            alert('You can\'t buy more then 4')
+        }
 
+
+    }
+    const randomChoose = () => {
+        const random = Math.floor(Math.random() * cart.length);
+        const randomCart = [cart[random]]
+        console.log(random, cart[random]);
+        setCart(randomCart)
+    }
+    const removeAll = () => {
+        setCart([]);
     }
 
     useEffect(() => {
@@ -32,11 +45,13 @@ const Shop = () => {
                     ></Product>)
                 }
             </div>
+
+
             <div className="cart-container">
                 <h1>Order Summary</h1>
                 {
                     cart.map((item) => (
-                        <div className='selected-cart'>
+                        <div key={item.id} className='selected-cart'>
                             <div className='img'>
                                 <img src={item.picture} alt="" />
                             </div>
@@ -46,8 +61,11 @@ const Shop = () => {
                         </div>
                     ))
                 }
+                <button onClick={removeAll} className='remove-all'>Remove All</button>
+                <button onClick={randomChoose} className='random-choose'>Random Choose</button>
             </div>
         </div>
+
     );
 };
 
