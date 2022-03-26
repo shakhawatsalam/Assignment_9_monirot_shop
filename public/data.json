@@ -1,74 +1,74 @@
 [
     {
       "id": "623de11b715c2f88199661ea",
-      "name": 0,
-      "price": "$1,816.60",
-      "picture": "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      "name":"LG 19M38A 18.5 Inch Monitor",
+      "price": "10,400৳",
+      "picture": "https://www.startech.com.bd/image/cache/catalog/Monitor/LG%20Monitor/LG%2019M38A-228x228.jpg"
     },
     {
       "id": "623de11b7b5c08494fca9f42",
-      "name": 1,
-      "price": "$2,179.33",
-      "picture": "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      "name": "LG 20MK400A-B 19.5\" FHD Monitor",
+      "price": "10,500৳",
+      "picture": "https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/20mk400h-b/20mk400h-b-228x228.jpg"
     },
     {
       "id": "623de11be6f7718d08221d5f",
-      "name": 2,
-      "price": "$1,875.41",
-      "picture": "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      "name": "LG 22MK430H-B 22\" Full HD IPS LED Monitor with AMD FreeSync",
+      "price": "13,900৳",
+      "picture": "https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/22mk430h-b/22mk430h-b-228x228.jpg"
     },
     {
       "id": "623de11bfb275f4db43f2fae",
-      "name": 3,
-      "price": "$3,636.30",
-      "picture": "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      "name": "LG 22MK600M 21.5 inch IPS Full HD LED Monitor",
+      "price": "15,900৳",
+      "picture": "https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/22mk600m/lg-22mk600m-1-228x228.jpg"
     },
     {
       "id": "623de11b6501a5ac974cfac0",
-      "name": 4,
-      "price": "$3,187.01",
-      "picture": "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      "name": "LG 24MK430H-B 24\" Full HD FreeSync IPS LED Monitor",
+      "price": "$17,999৳",
+      "picture": "https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/24mk430h-b/24mk430h-b-01-228x228.jpg"
     },
     {
       "id": "623de11ba99a378937e31071",
-      "name": 5,
-      "price": "$2,219.20",
-      "picture": "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      "name": "LG 24MK430H-B 24\" Full HD FreeSync IPS LED Monitor",
+      "price": "$20,200৳",
+      "picture": "https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/24mp400-b/24mp400-b-01-228x228.jpg"
     },
     {
       "id": "623de11b23489a7f7bdf929d",
-      "name": 6,
-      "price": "$1,056.76",
-      "picture": "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      "name": "LG 24MP400-B 24\" Full HD IPS Monitor",
+      "price": "25,500৳",
+      "picture": "https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/24gn600-b/24gn600-b-01-228x228.jpg"
     },
     {
       "id": "623de11b92dabe2a8420c5f8",
-      "name": 7,
-      "price": "$2,032.44",
-      "picture": "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      "name":"LG 24GN600-B 23.8\" UltraGear Full HD IPS 144Hz Gaming Monitor",
+      "price": "32,000৳",
+      "picture": "https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/32ml600m/32ml600m-01-228x228.jpg"
     },
     {
       "id": "623de11b4ff7cee95d639668",
-      "name": 8,
-      "price": "$1,960.98",
-      "picture": "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      "name": "LG 32ML600M 32\" IPS Full HD HDR 75Hz Gaming Monitor",
+      "price": "44,500৳",
+      "picture": "https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/27gn750-b/27gn750-b-1-228x228.jpg"
     },
     {
       "id": "623de11bbdf486845b551646",
-      "name": 9,
-      "price": "$2,399.36",
-      "picture": "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      "name":"LG 27UP600-W 27\" 4K UHD IPS Monitor",
+      "price": "48,800৳",
+      "picture": "https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/27gl850-b/27gl850-b-3-228x228.jpg"
     },
     {
       "id": "623de11bf155a8082a32b641",
-      "name": 10,
-      "price": "$2,425.31",
-      "picture": "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      "name": "LG 27GN750-B 27” UltraGear 240Hz G-Sync FHD IPS Gaming Monitor",
+      "price": "51,000৳",
+      "picture": "https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/27up600-w/27up600-w-01-228x228.jpg"
     },
     {
       "id": "623de11baaf21d82534b1ea2",
-      "name": 11,
-      "price": "$3,898.01",
-      "picture": "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      "name": "LG UltraGear 27GN800-B 27\" QHD IPS 1ms 144Hz HDR Gaming Monitor",
+      "price": "52,500৳",
+      "picture": "https://www.startech.com.bd/image/cache/catalog/monitor/lg-monitor/27QN880%20/27qn880-big-228x228.jpg"
     }
   ]

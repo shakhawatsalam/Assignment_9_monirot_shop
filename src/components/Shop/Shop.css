@@ -7,3 +7,21 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
 }
+.cart-container{
+    background-color: bisque;
+}
+.selected-cart{
+ display: flex;
+ border-radius: 2rem;
+ background-color: gray;
+ align-items: center;
+ justify-content: space-around;
+}
+.selected-cart img{
+ width: 50px;
+ height: 50px;
+ border-radius: 50%;
+}
+.img{
+    
+}
