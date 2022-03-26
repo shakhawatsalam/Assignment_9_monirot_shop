@@ -1,9 +1,7 @@
 .cart{
     position: sticky;
     margin-top: 0;
-    top: 0;
-    /* border: 2px solid red; */
-    
+    top: 0;  
 }
 .btn{
     display: flex;
