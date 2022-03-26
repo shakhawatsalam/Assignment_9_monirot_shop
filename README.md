@@ -1,4 +1,3 @@
 # Monitor Shop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+# Live Site : [Monitor Shop](https://illustrious-heliotrope-f402cb.netlify.app/)
