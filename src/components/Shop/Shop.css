@@ -1,46 +1,46 @@
-.shop-container{
-    display: grid;
-    grid-template-columns: 4fr 1fr;
+.shop-container {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
 }
-.products-container{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 45px;
-    
+.products-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 45px;
 }
-.cart-container{
-    background-color: bisque;
-    padding: 5px;
-    height: 600px;
-    
+.cart-container {
+  background-color: bisque;
+  padding: 5px;
+  position: sticky;
 }
-.selected-cart{
- display: flex;
- border-radius: 2rem;
- padding: 5px;
- background-color: gray;
- align-items: center;
- /* justify-content: space-around; */
+.selected-cart {
+  display: flex;
+  border-radius: 2rem;
+  padding: 5px;
+  background-color: gray;
+  align-items: center;
+  /* justify-content: space-around; */
 }
-.selected-cart img{
- width: 50px;
- height: 50px;
- border-radius: 50%;
- margin-left: 3px;
+.selected-cart img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-left: 3px;
 }
-.remove-all{
-    border: none;
-    margin-right: 10px;
-    border-radius: 5px;
-    background-color: black;
-    padding: 10px;
-    color: wheat;
+.remove-all {
+  border: none;
+  margin-right: 10px;
+  border-radius: 5px;
+  background-color: black;
+  padding: 10px;
+  color: wheat;
 }
-.random-choose{
-    border: none;
-    margin-right: 10px;
-    border-radius: 5px;
-    background-color: black;
-    padding: 10px;
-    color: wheat;
+.random-choose {
+  border: none;
+  margin-right: 10px;
+  border-radius: 5px;
+  background-color: black;
+  padding: 10px;
+  color: wheat;
 }
+
+
